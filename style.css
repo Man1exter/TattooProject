@@ -3,6 +3,7 @@
     margin: 0;
     font-size: 40px;
 }
+
 body{
     background: linear-gradient(to left, blue,rgb(209, 11, 209));
 }
@@ -28,4 +29,24 @@ text-align: center;
 background-color: brown;
 }
 
+.main2{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    border: 5px solid green;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.boxs{
+    height: 50px;
+    width: 50px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: brown;
+    }
 
