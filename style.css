@@ -4,9 +4,6 @@
     font-size: 40px;
 }
 
-body{
-    background: linear-gradient(to left, blue,rgb(209, 11, 209));
-}
 
 .main1{
     position: absolute;
@@ -41,6 +38,7 @@ background-color: brown;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-end;
+    background-color: yellow;
 }
 .boxs{
     height: 50px;
