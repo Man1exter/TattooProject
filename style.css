@@ -8,4 +8,18 @@ body{
     background: linear-gradient(to right top, black,blue,black);
     height: 100vh;
 }
-
+div{
+    border: 3px solid green;
+    background: linear-gradient(to left,green,black);
+    color: white;
+    margin-left: 10px;
+    border-radius: 7px;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
