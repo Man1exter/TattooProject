@@ -12,11 +12,11 @@ div{
     border: 3px solid green;
     background: linear-gradient(to left,green,black);
     color: white;
-    margin-left: 10px;
+    padding: 0 10px;
     border-radius: 7px;
     height: 70px;
     width: 100%;
-    text-align: center;
+    justify-content: center;
 }
 .container{
     display: flex;
