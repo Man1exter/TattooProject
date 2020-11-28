@@ -26,3 +26,13 @@ body{
     text-align: center;
     border-radius: 7.5px;
 }
+
+.container-fluid{
+    display: flex;
+    margin-top: 100px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.col{
+    margin-top: 10px;
+}
