@@ -5,7 +5,7 @@
 }
 
 body{
-    background: linear-gradient(to right, blue,rgb(204, 0, 255));
+    background: linear-gradient(to right top, black,blue,black);
     height: 100vh;
 }
 
