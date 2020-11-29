@@ -9,30 +9,3 @@ body{
     background: linear-gradient(to right top, black,blue,black);
     height: 100vh;
 }
-.container{
-    display: flex;
-    justify-content: center;
-    background-color: transparent;
-    margin-top: 150px;
-}
-.row{
-    width: 100%;
-    background-color: transparent;
-}
-.col{
-    border: 2px solid green;
-    margin: 0px 5px;
-    background-color: yellow;
-    text-align: center;
-    border-radius: 7.5px;
-}
-
-.container-fluid{
-    display: flex;
-    margin-top: 100px;
-    border-radius: 10px;
-    justify-content: center;
-}
-.col{
-    margin-top: 10px;
-}
