@@ -1,8 +1,11 @@
 *{
     padding: 0;
     margin: 0;
-    font-size: 42px;
-    color: black;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%; /* 1 rem = 10px */
 }
 
 body{
