@@ -6,9 +6,19 @@
 
 html{
     font-size: 62.5%; /* 1 rem = 10px */
+    scroll-behavior: smooth;
 }
 
 body{
-    background: linear-gradient(to right top, black,blue,black);
-    height: 100vh;
+    background-color: #333;
+    height: 150vh;
+}
+/*////////////////////////////   NAV  ////////////////////// */
+
+.navbar{
+    font-size: 2rem;
+}
+
+.fa-artstation{
+    font-size: 4rem;
 }
