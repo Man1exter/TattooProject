@@ -11,7 +11,7 @@ html{
 
 body{
     height: 150vh;
-    background-image: url('/moon-1859616_1920.jpg');
+    background-image: url('images/moon-1859616_1920.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -20,7 +20,7 @@ body{
 
 .navbar{
     font-size: 2.2rem;
-    background-image: url('/moon-2048727_1920.jpg');
+    background-image: url('images/moon-2048727_1920.jpg');
     background-position: center;
     background-size: cover;
 }
