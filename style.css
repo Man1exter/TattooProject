@@ -27,7 +27,16 @@ body{
 
 .fa-artstation{
     font-size: 4rem;
+    color: rgb(0, 60, 255);
 }
 
 /*///////////////////////////-   HEADER  -///////////////////////// */
 
+.jumbotron{
+    margin-top: 10rem;
+    padding-top: 2rem;
+    border: 3px solid green;
+}
+.display-4{
+    text-transform: uppercase;
+}
