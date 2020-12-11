@@ -42,3 +42,9 @@ body{
 .lead{
     text-transform: uppercase;
 }
+
+/* /////////////////////-  BANNEROFIMAGES   =///////////////////////*/
+
+.imagesBanner{
+    height: 500px;
+}
