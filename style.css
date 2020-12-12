@@ -95,15 +95,15 @@ body{
     opacity: 0.5;
 }
 
-i1{
+.i1{
     background-image: url('/images/hands-5504603_1920.jpg');
 }
-i2{
+.i2{
     background-image: url('/images/elephant-945577_1920.png');
 }
-i3{
+.i3{
     background-image: url('/images/adult-1867485_1920.jpg');
 }
-i4{
+.i4{
     background-image: url('images/tattoos-1209589_1920.jpg');
 }
