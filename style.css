@@ -11,7 +11,7 @@ html{
 
 body{
     height: 300vh;
-    background-image: url('images/moon-1859616_1920.jpg');
+    background-image: url('/images/fractal-1405730_1920.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -51,6 +51,7 @@ body{
 
 .containerOfImages{
    margin-top: 3rem;
+   border: 2rem solid blue;
 }
 
 .conAch{
