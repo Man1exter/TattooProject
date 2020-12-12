@@ -97,13 +97,21 @@ body{
 
 .i1{
     background-image: url('/images/hands-5504603_1920.jpg');
+    background-position: center;
+    background-size: cover;
 }
 .i2{
     background-image: url('/images/elephant-945577_1920.png');
+    background-position: center;
+    background-size: cover;
 }
 .i3{
     background-image: url('/images/adult-1867485_1920.jpg');
+    background-position: center;
+    background-size: cover;
 }
 .i4{
     background-image: url('images/tattoos-1209589_1920.jpg');
+    background-position: center;
+    background-size: cover;
 }
