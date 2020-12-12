@@ -72,9 +72,15 @@ body{
     z-index: 2;
 }
 
-.team{
-    margin-top: 20rem;
-}
+/*////////////////////////-   team   -////////////////////*/
 .card-title{
+    font-size: 2rem;
+}
+
+.conAch2{
+    font-size: 4rem;
+    margin-top: 19rem;
+}
+.about{
     font-size: 2rem;
 }
