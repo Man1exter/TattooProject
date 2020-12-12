@@ -62,6 +62,7 @@ body{
     border: 2px solid blue;
     font-size: 2rem;
     background-image: url('/images/boxer-1984344_1920.jpg');
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     color: white;
