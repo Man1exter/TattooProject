@@ -60,9 +60,13 @@ body{
 .boxHours{
     border: 2px solid blue;
     font-size: 2rem;
-    background: rgb(43, 42, 42);
+    background-image: url('/images/boxer-1984344_1920.jpg');
+    background-position: center;
+    background-size: cover;
     color: white;
+    z-index: 2;
 }
 .hoursD{
     color: yellow;
+    z-index: 2;
 }
