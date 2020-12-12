@@ -84,3 +84,12 @@ body{
 .about{
     font-size: 2rem;
 }
+
+.contern{
+    transition: .2s linear;
+    cursor: pointer;
+}
+.contern:hover{
+    background-color: black;
+    color: white;
+}
