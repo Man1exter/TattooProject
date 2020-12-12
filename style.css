@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    height: 200vh;
+    height: 300vh;
     background-image: url('images/moon-1859616_1920.jpg');
     background-position: center;
     background-size: cover;
@@ -46,7 +46,7 @@ body{
 /* /////////////////////-  BANNEROFIMAGES   =///////////////////////*/
 
 .imagesBanner{
-    height: 50rem;
+    height: 55rem;
 }
 
 .containerOfImages{
@@ -55,7 +55,7 @@ body{
 
 .conAch{
     font-size: 4rem;
-    margin-top: 10rem;
+    margin-top: 13rem;
 }
 .boxHours{
     border: 2px solid blue;
