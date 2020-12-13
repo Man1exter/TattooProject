@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    height: 500vh;
+    height: 425vh;
     background-image: url('/images/fractal-1405730_1920.jpg');
     background-position: center;
     background-size: cover;
@@ -110,4 +110,10 @@ body{
 .btnt{
     height: 5rem;
 }
-
+.copy{
+    margin-top: 11rem;
+    height: 5.9rem;
+    color: black;
+    background-color: white;
+    font-size: 4rem;
+}
