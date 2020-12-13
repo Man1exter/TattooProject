@@ -81,7 +81,7 @@ body{
 
 .conAch2{
     font-size: 4rem;
-    margin-top: 19rem;
+    margin-top: 15rem;
 }
 .about{
     font-size: 2rem;
@@ -105,5 +105,9 @@ body{
 }
 ::placeholder{
     font-size: 1.5rem;
+}
+
+.btnt{
+    height: 5rem;
 }
 
